@@ -1,0 +1,11 @@
+name: mcdev_BankSystem-v1.0-mc1.20.1_d
+version: 1.0
+main: play.mcdev.tv.banksystem.Main
+api-version: '1.20'
+author: Daddel
+website: https://twitch.tv/daddel_yt
+description: Bank System for play.mcdev.tv
+commands:
+  addToDatabase:
+  bank:
+  removeFromDatabase:
